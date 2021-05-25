@@ -1,5 +1,6 @@
 let Electrodomestico = require('./Electrodomestico')
 
+
 class Nevera extends Electrodomestico{
 
     constructor(consumo,procedencia,litros){

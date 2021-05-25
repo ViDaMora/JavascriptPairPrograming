@@ -1,5 +1,7 @@
 let Electrodomestico = require('./Electrodomestico')
 
+
+
 class Televisor extends Electrodomestico{
 
     constructor(consumo,procedencia,pulgadas,tdd){
