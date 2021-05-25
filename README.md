@@ -1,5 +1,5 @@
 # JavascriptPairPrograming
-Actividad Pair programing: Victor Mora - Eduardo Ramirez 
+Actividad Pair programming: Victor Mora - Eduardo Ramirez 
 
 ## Project setup
 En este proyecto se hace uso de la dependencia prompt-sync
